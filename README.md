@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about your mom
 - 📫 How to reach me: https://twitter.com/_NotLolaty
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: fuck yourself
+- ⚡ Fun fact: i know your mom)
 -->
