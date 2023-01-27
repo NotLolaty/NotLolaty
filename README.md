@@ -1,12 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm NotLolaty</h1>
+<h3 align="center">I'm cool dude</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_notlolaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_notlolaty" height="30" width="40" /></a>
+<a href="https://fb.com/notlolaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="notlolaty" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/notlolaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notlolaty" height="30" width="40" /></a>
+</p>
 
-<h1> 🔭 I’m currently working on nothing </h1>
-<h1> 🌱 I’m currently learning Sass or scss</h1>
-<h1> 👯 I’m looking to collaborate on nothing</h1>
-<h1> 🤔 I’m looking for help with nothing</h1>
-<h1> 💬 Ask me about anything</h1>
-<h1> 📫 How to reach me: https://twitter.com/_NotLolaty</h1>
-<h1> 😄 Pronouns: yes</h1>
-<h1> ⚡ Fun fact: i know you)</h1> 
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+Up
