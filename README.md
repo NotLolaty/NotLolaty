@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 
-**NotLolaty/NotLolaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <h1> 🔭 I’m currently working on nothing </h1>
 <h1> 🌱 I’m currently learning Sass or scss</h1>
 <h1> 👯 I’m looking to collaborate on nothing</h1>
