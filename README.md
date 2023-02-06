@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/_notlolaty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_notlolaty" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100067197635579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100067197635579" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucbj2mrnst3ujernw0cea0yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbj2mrnst3ujernw0cea0yg" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/channel/ucbj2mrnst3ujernw0cea0yg](https://www.youtube.com/channel/UCBJ2MRNst3ujERNw0CEA0yg)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucbj2mrnst3ujernw0cea0yg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
