@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm NotLolaty</h1>
-<h3 align="center">A passionate frontend developer from Uzbekistan/Tashkent</h3>
+<h1 align="center">Hi 👋, I'm Behaplayer</h1>
+<h3 align="center">A passionate developer from Uzbekistan/Tashkent</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Html, css, scss and javaScript**
+- 💬 Ask me about **Java, JavaScript, and basics**
 
 - 📫 How to reach me **bmutalov90@gmail.com**
 
